@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme Cottas Azevedo
+# 👋 Olá, sou Guilherme Cottas Azevedo
 
 🎯 **QA Pleno em transição para Desenvolvimento Backend**  
 💻 Atuo com **Java** e automação de testes, com foco em evoluir para **Desenvolvedor Java / Spring Boot**
