@@ -1,51 +1,22 @@
-# 👋 Olá, sou Guilherme Cottas Azevedo
+### Skills
 
-🎯 **QA Pleno em transição para Desenvolvimento Backend**  
-💻 Atuo com **Java** e automação de testes, com foco em evoluir para **Desenvolvedor Java / Spring Boot**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/>
+</p>
 
----
+### Testing
 
-## 🧑‍💻 Sobre mim
-- QA Pleno com **2 anos e 6 meses de experiência**
-- Experiência prática com **Java**, automação de testes e APIs
-- Em transição de carreira para **Desenvolvimento Backend**
-- Atualmente estudando **JavaScript e Node.js**
-- Busco evoluir em arquitetura, boas práticas e cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="32"/>
+</p>
 
----
+### Learning
 
-## 🚀 Tecnologias & Ferramentas
-
-**Linguagens**
-- Java
-- SQL
-- JavaScript (em estudo)
-
-**Frameworks**
-- Spring Boot
-
-**Ferramentas & DevOps**
-- Git & GitHub
-- Maven
-- IntelliJ IDEA
-- Docker (em estudo)
-- CI/CD
-
-**Bancos de Dados**
-- MySQL
-- PostgreSQL
-
----
-
-## 📚 Estudos Atuais
-- Java e Spring Boot avançado
-- APIs REST
-- Git avançado
-- Docker
-- AWS (fundamentos)
-
----
-
-## 🔗 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-azevedo-531361309/)
-- 📧 Email: guicottas@hotmail.com
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/>
+</p>
